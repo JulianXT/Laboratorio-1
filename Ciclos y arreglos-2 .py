@@ -45,5 +45,6 @@ i=0
 while i < 5:
     Porcentaje= ((Zonas[i]/NUEN)*100)
     i+=1
-    print("El porcentaje de entrenamientos en la zona",i,"es de",Porcentaje)
+    print("El porcentaje de entrenamientos en la zona",i,"es de",Porcentaje,"%")
+    
 
