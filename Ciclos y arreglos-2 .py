@@ -34,8 +34,16 @@ while i <= NUEN:
     print("En el entrenamiento:", i, "tu zona de trabajo es:", Zona)
     i+=1
 
-print("Hay",Z1, "entrenamientos en la zona 1",
-    Z2, "entrenamientos en la zona 2",
-    Z3, "entrenamientos en la zona 3",
-    Z4, "entrenamientos en la zona 4",
-    Z5, "entrenamientos en la zona 5")    
+print("Hay",Z1, "entrenamientos en la zona 1, ",
+    Z2, "entrenamientos en la zona 2, ",
+    Z3, "entrenamientos en la zona 3, ",
+    Z4, "entrenamientos en la zona 4, ",
+    Z5, "entrenamientos en la zona 5, ")    
+
+Zonas=[Z1, Z2, Z3, Z4, Z5]
+i=0
+while i < 5:
+    Porcentaje= ((Zonas[i]/NUEN)*100)
+    i+=1
+    print("El porcentaje de entrenamientos en la zona",i,"es de",Porcentaje)
+
