@@ -2,10 +2,9 @@ NUEN=int(input("Introduzca su numero de entrenamientos:"))
 i=1
 def maxHR(age):
      return 208-0.7*age
-
+age=int(input('Enter your age: '))
 while i <= NUEN:
     FC=int(input('Enter your Frecuencia cardiaca:'))
-    age=int(input('Enter your age: '))
     FCM = maxHR(age)
     if FC<0.5*FCM:
         Zona = "su frecuencia cardiaca no esta en una zona de trabajo"
