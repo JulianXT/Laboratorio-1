@@ -24,3 +24,7 @@ while i <= NUEN:
     print("En el entrenamiento:", i, "tu zona de trabajo es:", Zona)
 
     i+=1
+#Julian Trujillo
+#Nicol Garcia
+#Vivian Montoya
+#Carlos Sanchez

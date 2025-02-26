@@ -31,3 +31,8 @@ def main():
 
 if __name__ == "__main__":
     main()
+
+#Julian Trujillo
+#Nicol Garcia
+#Vivian Montoya
+#Carlos Sanchez

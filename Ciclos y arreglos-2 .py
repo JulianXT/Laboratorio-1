@@ -48,3 +48,7 @@ while i < 5:
     print("El porcentaje de entrenamientos en la zona",i,"es de",Porcentaje,"%")
     
 
+#Julian Trujillo
+#Nicol Garcia
+#Vivian Montoya
+#Carlos Sanchez

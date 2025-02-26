@@ -27,3 +27,8 @@ try:
     print(f"Su zona de entrenamiento es: {zona}")
 except ValueError:
     print("Por favor, ingrese valores numéricos válidos.")
+    
+#Julian Trujillo
+#Nicol Garcia
+#Vivian Montoya
+#Carlos Sanchez

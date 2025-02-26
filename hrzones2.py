@@ -18,4 +18,9 @@ elif FC >=0.8*FCM and FC <0.9*FCM:
     print("Tu zona de trabajo es Z4")
 elif FC >=0.9*FCM and FC <FCM:
     print("Tu zona de trabajo es Z5")
+    
+#Julian Trujillo
+#Nicol Garcia
+#Vivian Montoya
+#Carlos Sanchez
 

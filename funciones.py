@@ -43,3 +43,8 @@ if RangoZ2bajo <= PMDUS <= Rangoz2alto:
     print("Tu promedio está dentro de la zona Z2")
 else:
     print("Tu promedio no está en Z2, Ajusta la intensidad del entrenamiento.")
+    
+#Julian Trujillo
+#Nicol Garcia
+#Vivian Montoya
+#Carlos Sanchez
