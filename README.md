@@ -1,4 +1,4 @@
-# Laboratorio de Frecuencia Cardíaca
+# Laboratorio 0 Programación
 
 ## Sentencias Condicionales  
 
