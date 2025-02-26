@@ -1,4 +1,4 @@
-FC=int(input('Enter your Frecuencia cardiaca:'))
+FC=int(input('ingresa tu Frecuencia cardiaca:'))
 
 age=int(input('Enter your age: '))
 
